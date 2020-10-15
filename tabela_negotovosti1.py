@@ -11,6 +11,7 @@ izracun nagotovsti v enacbah
 treba je installat:
 pip install sympy, numpy, matplotlib
 kt v Projekt Tomo se spreminja samo stvari k so med ##   ##
+pa da vidimo če to res dela
 '''
 
 ####################################################################
